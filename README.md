@@ -72,12 +72,6 @@ const duyNguyen = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nkduy23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏆 Featured Projects
@@ -196,17 +190,6 @@ mindmap
 
 🏅 **JavaScript Algorithms and Data Structures** - 2025
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nkduy23&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🌟 What Sets Me Apart
 
