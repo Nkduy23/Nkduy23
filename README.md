@@ -66,12 +66,15 @@ const duyNguyen = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nkduy23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkduy23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nkduy23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nkduy23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nkduy23&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nkduy23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -195,9 +198,13 @@ mindmap
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nkduy23&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nkduy23&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -219,7 +226,7 @@ mindmap
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenkhanhduy23803@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nkduy23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-kh%C3%A1nh-66390a3a1/)
 
 📍 **Location:** Cu Chi District, Ho Chi Minh City, Vietnam
 
@@ -235,6 +242,6 @@ mindmap
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nkduy23&color=brightgreen&style=for-the-badge)
 
-⭐️ From [Nkduy23](https://github.com/Nkduy23) | Last updated: December 2024
+⭐️ From [Nkduy23](https://github.com/Nkduy23) | Last updated: December 2025
 
 </div>
